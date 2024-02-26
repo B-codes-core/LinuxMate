@@ -1,0 +1,18 @@
+Package: python3-linuxmate
+Source: linuxmate
+Version: 1.0.0-1
+Architecture: all
+Maintainer: BCodes <bcodes2350@gmail.com>
+Installed-Size: 33
+Depends: python3:any
+Section: python
+Priority: optional
+Description: Answers all your questions related to Linux
+ <h1>Linux Mate</h1>
+ <p>
+ Linux Mate is your personal Linux assistant, ready to help you solve your doubts, whether you are beginner or a pro Linux User. LinuxMate leverages the power of Gemini API, made by Google to answer your questions right from your command line interface. Linuxmate is still in development (Current Version 1.0.0), and feel free to suggest any future improvements and/or bug fixes.
+ </p>
+ <br>
+ <h1>Installation Guide</h1>
+ <ol>
+       <li><h2>

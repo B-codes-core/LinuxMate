@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Mon, 26 Feb 2024 15:52:50 +0530
+Source: linuxmate
+Binary: python3-linuxmate
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: BCodes <bcodes2350@gmail.com>
+Changed-By: BCodes <bcodes2350@gmail.com>
+Description:
+ python3-linuxmate - Answers all your questions related to Linux
+Changes:
+ linuxmate (1.0.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ 676db2ef6a79b021df49fd6587eb8c1c84eff593 6529 linuxmate_1.0.0-1_amd64.buildinfo
+ d26f20646489d7b5dd64763efa7acb40d7c1a370 6532 python3-linuxmate_1.0.0-1_all.deb
+Checksums-Sha256:
+ 143f9286ba30b4dac2652710370a9727961ad2c3357cf250d75c875589e010a9 6529 linuxmate_1.0.0-1_amd64.buildinfo
+ 9e0b7c63c077e7c8ff25c9ee4bd8c5a9b769972b09289503c86c07bd7dbc13c9 6532 python3-linuxmate_1.0.0-1_all.deb
+Files:
+ 1f805095ad0c2842a1db2fc113987fb8 6529 python optional linuxmate_1.0.0-1_amd64.buildinfo
+ 9842add9ad0ca9a60e8a5e0c60845cb5 6532 python optional python3-linuxmate_1.0.0-1_all.deb
