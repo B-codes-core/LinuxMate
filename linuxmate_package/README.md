@@ -6,7 +6,7 @@ Linux Mate is your personal Linux assistant, ready to help you solve your doubts
 <h1>Installation Guide</h1>
 <ol>
       <li>
-            <h2>Download the .deb file</h2><br>
+            <h2>Download the .deb file</h2>
             <p>Navigate to the linuxmate_package/deb_dist/ directory and download python3-linuxmate_1.0.0-1_all.deb<p>
       </li>
       <li>
