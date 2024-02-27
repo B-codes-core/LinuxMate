@@ -15,10 +15,11 @@ Linux Mate is your personal Linux assistant, ready to help you solve your doubts
       </li>
       <li>
             <h2>Setup API key as an environment variable</h2>
-            <p>The program relies on the fact that you store your API key in an environment variable called "API_KEY". To set up this environment variable, open your shell and type in the following command to open up .bashrc file<br>
+            <p>The program relies on the fact that you store your API key in an environment variable called "GEMINI_API_KEY". To set up this environment variable, open your shell and type in the following command to open up .bashrc file<br>
             <code>gedit .bashrc</code><br>
             Then copy the below command and paste it in the beginning of the opened file (This is just a good practise. You can paste it anywhere in the file), and then save it. Make sure to replace {Your_API_Key} with the API Key that you got from step 2
-            <code>export API_KEY = {Your_API_Key}</code><br>
+            <code>export GEMINI_API_KEY = {Your_API_Key}</code>
+            To make sure the change is saved, type the following command : <code>source .bashrc</code><br>
       </li>
       <li>
             <h2>Installing dependencies</h2>
