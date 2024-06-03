@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+linuxmate/__init__.py
+linuxmate/linuxmate.py
+linuxmate.egg-info/PKG-INFO
+linuxmate.egg-info/SOURCES.txt
+linuxmate.egg-info/dependency_links.txt
+linuxmate.egg-info/entry_points.txt
+linuxmate.egg-info/top_level.txt

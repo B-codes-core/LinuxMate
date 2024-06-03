@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Mon, 26 Feb 2024 15:52:50 +0530
+Source: linuxmate
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: BCodes <bcodes2350@gmail.com>
+Changed-By: BCodes <bcodes2350@gmail.com>
+Changes:
+ linuxmate (1.0.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ 66356af2e1f218160a81a51861459e93c51c2294 842 linuxmate_1.0.0-1.dsc
+ d054f07ac410b3a603faa101892cd0deaf4b2045 17428 linuxmate_1.0.0.orig.tar.gz
+ 7152ddc8a0f2b8aefb1200125bbe3f062d3b6c36 1124 linuxmate_1.0.0-1.debian.tar.xz
+ 6c9eff9d56439cac6e154423f8a5ee8326a7d441 6467 linuxmate_1.0.0-1_source.buildinfo
+Checksums-Sha256:
+ 8bed4511ab22796ab6dc75e5f578cfaf53d39a672156ac4109ccead7695c4725 842 linuxmate_1.0.0-1.dsc
+ 368d9f0bf847eec3facdef0d3ecf90daec198d1a92c01ff786c12de30fe0b3d3 17428 linuxmate_1.0.0.orig.tar.gz
+ 373cad7ddc7814bd164e3d0d3249d2686db5bc03f990f183025719a3bbab073a 1124 linuxmate_1.0.0-1.debian.tar.xz
+ 17b6e21928ebf9445d4fb195635864a997e0c24fb47dfcab6f715a356b10d009 6467 linuxmate_1.0.0-1_source.buildinfo
+Files:
+ d9dda0d31555515a75f9f3f4effeed87 842 python optional linuxmate_1.0.0-1.dsc
+ e81a160c5dba6afe303f65904f0f5ac7 17428 python optional linuxmate_1.0.0.orig.tar.gz
+ 200df13d842d2dd69557d0e713df9783 1124 python optional linuxmate_1.0.0-1.debian.tar.xz
+ 9db24f5330e3bf1615a8fa0f8b62b416 6467 python optional linuxmate_1.0.0-1_source.buildinfo
